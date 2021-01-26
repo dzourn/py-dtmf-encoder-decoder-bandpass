@@ -1,4 +1,4 @@
-# DTMF ENCODER AND DECODER W/ BANDPASS FILTERS
+# DTMF encoder and decoder w/ bandpass filters
 
 DSP course assignment. Create a DTMF decoder with bandpass filters.
 
