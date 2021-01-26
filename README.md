@@ -25,5 +25,5 @@ This will return you the characters which are encoded in the .wav file.
 **NOTE**: you have to know how many numbers are encoded or there will be an error/mistake.
 
 ## TODO
--clean up code, organize in functions, more comments
--fix number of characters
+- clean up code, organize in functions, more comments
+- fix number of characters
